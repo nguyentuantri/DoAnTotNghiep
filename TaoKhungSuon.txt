@@ -1,6 +1,6 @@
 Tên đề tài:
 
-Tìm hiểu về công nghệ làm game cocos2d-x và đề xuất giải pháp xây dựng cổng game di động dựa trên cocos2d-x
+Tìm hiểu về công nghệ làm game cocos2d-x và đề xuất giải pháp xây dựng cổng game di động dựa trên nền tảng cocos2d-x
 
 1-Tạo khung sườn !
 Quyển đồ án sẽ bao gồm những phần nào, nội dung chính của mỗi phần là gì !
@@ -9,6 +9,16 @@ Rồi cứ thế, triển khai nhỏ xuống dần !
 
 
 Chương 1: Đặt vấn đề và định hướng giải pháp
+
+
+1-Lý do chọn đề tài
+Nên có phần này !
+Vì dù sao thì đặt vấn đề, dù trình bày theo hình thức nào, bố cục nào, cũng sẽ phải đụng đến cái lý do chọn đề tài mà thôi.
+Mà trình bày theo hình thức quen thuộc thì vẫn hay hơn !
+
+Ta sẽ triển khai cái lý do chọn đề tài này như thế nào??
+Cocos2d-x được nhiều nhà phát triển Việt Nam ưa chuộng (vng, egame, vtc game, ...)
+
 
 Trong phần này, chúng ta sẽ trình bày 
 
@@ -69,13 +79,10 @@ Khá là hữu ích, cuối cùng thì cũng tìm được cách làm.
 
 
 Tuy nhiên, đôi khi, để có được một sự phân tích sâu sắc như vậy, đòi hỏi phải đầu tư thời gian tìm hiểu kỹ càng về nó, và cả công sức để tư duy, ...
-Cho nên, nếu ý tươ
+Cho nên, nếu ý tưởng mà nghe đâu quá xa vời thì thôi, bỏ qua, hãy cứ đề cập đến nếu thích, miễn đừng phân tích sâu vào để thể hiện cái ngu dốt của mình là được. ok.
 
 
-
-
-
-1-Về quy trình phát triển phần mềm và tài liệu hóa:
+1-Về việc tài liệu hóa trong các dự án phần mềm
 
 
 
