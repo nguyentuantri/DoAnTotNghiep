@@ -1,12 +1,18 @@
-Tên đề tài: Nghiên cứu giải pháp xây dựng cổng game di động trên nền tảng cocos2d-x
+Tên đề tài:
+
+Tìm hiểu về công nghệ làm game cocos2d-x và đề xuất giải pháp xây dựng cổng game di động dựa trên cocos2d-x
 
 1-Tạo khung sườn !
 Quyển đồ án sẽ bao gồm những phần nào, nội dung chính của mỗi phần là gì !
 Rồi cứ thế, triển khai nhỏ xuống dần !
 
+
+
 Chương 1: Đặt vấn đề và định hướng giải pháp
 
 Trong phần này, chúng ta sẽ trình bày 
+
+-Cái ý tưởng proof-of-concept sẽ được đưa vào đây, để nói rõ ràng rằng, cái mà ta làm không phải là một sản phẩm hoàn chỉnh mà chỉ đơn giản là một proof-of-concept mà thôi.
 
 *****Giúp người đọc hình dung rõ ràng về bài toán cần giải quyết.
 Bài toán đặt ra là xây dựng cổng game di động, cần phải làm rõ các vấn đề sau:
@@ -51,7 +57,7 @@ Và thực ra cái tình trạng nặn mãi không ra được một chữ này 
 Cần phải chỉ rõ nguyên nhân và tìm giải pháp khắc phục, để nâng cao tốc độ viết !
 
 Các nguyên nhân có thể là:
--Cầu toàn??? Ví dụ như Đức Béo, có mà ông ấy viết xong từ đời nào rồi. Nhưng đọc vào chán không chịu được. Cho nên cầu toàn thì có gì sai !
+-Cầu toàn??? Không !
 -Mơ hồ, thiếu một quan điểm rõ ràng, một cái nhìn xuyên suốt vấn đề, chỉ là một ý tưởng chưa thành hình.
 Hoặc một cái gì đó khá hời hợt bên ngoài.
 -->Vậy thì hãy thử cách này, hãy viết ra thật rõ ràng ý tưởng.
