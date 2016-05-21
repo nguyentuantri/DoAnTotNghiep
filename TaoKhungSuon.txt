@@ -39,6 +39,39 @@ Các công việc không thực hiện:
 
 Chương 2: Các kết quả đạt được
 
+Dẫn nhập người đọc để đưa ra quan điểm.
+Mục đích là: Thuyết phục người đọc đồng ý với cái nhìn về hiện trạng hiện nay.
+(Ok, muốn vậy phải có số liệu khảo sát, nhưng thực tế lại chẳng có số liệu khảo sát nào cả !)
+Thôi, thế này đi, nếu chưa khảo sát một cách nghiêm túc, thì đừng đưa ra kết luận một cách chủ quan. Chỉ vì mục đích làm màu làm mè.
+
+Cho nên cứ chân thật mà viết. Hãy cố gắng đừng quá khô khan, chứ không phải là hấp dẫn bằng mọi giá.
+Trước khi đi vào trình ày chi tiết các kết quả đạt được, chúng ta 
+---> Đoạn này thấy hơi khó viết, tại sao???
+Và thực ra cái tình trạng nặn mãi không ra được một chữ này nó xảy ra khá thường xuyên,
+Cần phải chỉ rõ nguyên nhân và tìm giải pháp khắc phục, để nâng cao tốc độ viết !
+
+Các nguyên nhân có thể là:
+-Cầu toàn??? Ví dụ như Đức Béo, có mà ông ấy viết xong từ đời nào rồi. Nhưng đọc vào chán không chịu được. Cho nên cầu toàn thì có gì sai !
+-Mơ hồ, thiếu một quan điểm rõ ràng, một cái nhìn xuyên suốt vấn đề, chỉ là một ý tưởng chưa thành hình.
+Hoặc một cái gì đó khá hời hợt bên ngoài.
+-->Vậy thì hãy thử cách này, hãy viết ra thật rõ ràng ý tưởng.
+Nói chung là làm cho nó thật thành hình ! Giống như một cái model vậy, trước khi đặt bút xuống viết.
+Hoặc nếu việc thể hiện ý tưởng dưới dạng model là mọt ý tưởng không khả thi, thì hãy thể hiện nó dưới một đoạn viết ngắn cũng được.
+
+Khá là hữu ích, cuối cùng thì cũng tìm được cách làm.
+1-Đưa ra một phân tích sâu sắc và có hệ thống về ý tưởng ra giấy --> Tránh được sự hời hợt, mơ hồ.
+
+
+Tuy nhiên, đôi khi, để có được một sự phân tích sâu sắc như vậy, đòi hỏi phải đầu tư thời gian tìm hiểu kỹ càng về nó, và cả công sức để tư duy, ...
+Cho nên, nếu ý tươ
+
+
+
+
+
+1-Về quy trình phát triển phần mềm và tài liệu hóa:
+
+
 
 0-Xây dựng framework test.
 
