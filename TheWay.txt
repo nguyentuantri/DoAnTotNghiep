@@ -1,0 +1,258 @@
+Rút ra một số cách mà các ông ấy sử dụng khi viết sách:
+
+1-Trình bày các vấn đề giống nhau theo một "khung sườn chung":
+Ví dụ:
+
+Trong quyển software engineering, bắt đầu mỗi chương, lúc nào cũng là:
+What is it?
+Who does it?
+Why is it important !
+...
+
+Hay trình bày các design pattern cũng thế.
+Luôn có một cái khung fix cứng
+(quyển của 4 for gang, hay quyển designing interface...)
+
+2-Cách mà họ đưa ra quan điểm cho một vấn đề gì đó là:
+Trích dẫn ý kiến của người khác, và sau đó, triển khai chi tiết hơn, sâu hơn, theo cách nhìn nhận của họ.
+
+-->Điều này làm cho người đọc có được cảm giác tin tưởng hơn.
+Và thậm chí là đỡ khó chịu hơn nữa.
+VD: ông ABC trong cuốn sách XZY nói rằng: "....."
+Thì người ta sẽ dễ chấp nhận hơn là: Tôi cho rằng ..... (Anh là ai mà anh dám cho rằng, :))), đấy kiểu thế)
+
+3-Trình bày theo kiểu diễn dịch:
+(Ví dụ, trong chương Design Challenge của cuốn Code Complete, hoặc trong quyển The Art Of Game Design)
+
+4-Hình minh họa cho các ý tưởng ! Khá hiệu quả !
+Những chỗ nào có thể sử dụng hình vẽ để minh họa cho các ý tưởng thì nên sử dụng.
+
+Sơ đồ cũng khá hiệu quả để minh họa cho các ý tưởng !
+
+
+5-Sử dụng các hình ảnh minh họa 
+
+6-Có 2 xu hướng chính để trình bày vấn đề:
+Xu hướng 1: Trình bày theo 1 luồng logic, phần này được nối tiếp với phần kia.
+Ví dụ: Cách sắp xếp các chuowng trong cuốn The Art Of Game Design
+
+O-->O-->O-->O
+
+Xu hướng 2: Có 1 vấn đề chủ đạo, lần lượt trình bày các vấn đề xung quanh liên quan đến ý tưởng đó.
+  |
+--O--
+  |
+  
+7-Thông thường, mỗi chương, mỗi phần, luôn có phần dẫn nhập,
+Ví dụ: Importance Prerequisites:
+Thì không phải ngay lập tức người ta đi vào giải thích tại sao nó quan trọng.
+Đưa ra các dẫn chứng, các số liệu.
+Mà thông thường sẽ có một phần dẫn nhập.
+Phần dẫn nhập này không hẳn vô nghĩa, hay chỉ có tác dụng làm dài cuốn sách.
+Nó có vai trò riêng của nó, chẳng hạn: Giúp cho người đọc cảm thấy hứng thú hơn, hay làm rõ hơn ngữ cảnh của vấn đề.
+Ví dụ: Prerequisites thì được đặt trong ngữ cảnh phân biệt với construction và test. Nằm ở phần before, trong 3 phần before, middle, after.
+Đấy, kiểu như thế.
+
+Ứng dụng luôn nhé.
+Chẳng hạn, chúng ta có phần 1 của quyển đồ án là đặt vấn đề và định hướng giải pháp.
+
+Cách dẫn nhập nhàm chán:
+Trong phần này, chúng ta sẽ trình bày về các vấn đề xyz, chúng ta sẽ làm rõ phạm vi của đồ án, những việc mà đồ án sẽ làm, những việc mà đồ án không làm, bla, bla....
+
+Cách dẫn nhập thú vị hơn:
+Mục tiêu của đồ án là : Đưa ra giải pháp công nghệ đề xây dựng cổng game di động.
+Vì vậy, đồ án thiên về tính chất của một dự án thực tế hơn là tính chất của một nghiên cứu học thuật.
+Tuy nhiên, dù đó là một dự án sản phẩm thực tế, hay một nghiên cứu học thuật, thì phần đầu tiên và quan trọng không thể thiếu là phần đặt vấn đề.
+Với một nghiên cứu học thuật, thông thường chúng ta đặt vấn đề bằng cách mô tả bài toán, và có thể có cả những ứng dụng tiềm năng của bài toán.
+Còn với một dự án thực tế thì đặt vấn đề chính là đưa ra một business case cho dự án đó.
+Theo định nghĩa của ... business case là ....
+Như vậy, trong phần đầu tiên này, chúng ta sẽ tập trung làm rõ về, ....
+
+Khi đã có động cơ rồi, điều quan trọng tiếp theo không thể thiếu đó là: lập kế hoạch tổng quan về các nhiệm vụ sẽ làm.
+...
+...
+.......
+
+Thật ra thì cái cách dẫn nhập như vậy cũng hơi khoa trương ! Hoàn toàn không muốn chia sẻ quan điểm, mà chỉ đơn giản là muốn thể hiện sự hiểu biết.
+Trước hết, hãy hình thành những ý tưởng, những quan điểm thật rõ ràng về vấn đề định viết, và sau đó, chia sẻ với người đọc.
+
+Nhưng cái việc hình thành ý tưởng này, nếu dẫn đến tắc tị thì sao. Tức là nghĩ mãi, nghĩ mãi mà cũng không ra được một tí ý tưởng hay ho nào.
+Hãy đọc lại các các quyển sách mẫu hay, xem các tác giả họ làm như thế nào.
+
+Với một dự án nói chung và một dự án phần mềm nói riêng, thường thì chúng sẽ được bắt đầu với một business case.
+Một business case, có thể được tài liệu hóa, hoặc có thể chỉ là trao đổi miệng, tranh luận, trình bày để đưa ra lý do bắt đầu dự án.
+Bởi lẽ, theo logic kinh doanh, bất cứ khi các tài nguyên như tiền bạc, công sức được đầu tư, thì chúng phải phục vụ cho một mục đích kinh doanh cụ thể, phải đem lại hiệu quả.
+
+
+
+Rõ ràng cách dẫn nhập thứ hai sẽ hấp dẫn hơn, vì con người thích các ý tưởng hơn là một sự khô khan, máy móc.
+Tuy nhiên, ý tưởng cần phải rõ ràng, và hợp lý.
+Nhưng ta sẽ thấy phát sinh một vấn đề đó là: Vì muốn thể hiện sự hấp dẫn, mà người ta đưa ra những khẳng định khá chủ quan và thiếu cơ sở.
+Chẳng hạn: "Với một nghiên cứu học thuật, thông thường chúng ta đặt vấn đề bằng cách mô tả bài toán, và có thể có cả những ứng dụng tiềm năng của bài toán"
+Cơ sở nào khẳng định như vậy ???
+
+
+
+8-Phản đối các ý kiến sai lầm:
+Some people have asserted that ....
+Nhưng các nghiên cứu cũng như những số liệu thực tế hiện nay cho thấy, quan điểm đó không được ủng hộ nhiều lắm.
+(thực ra ý của tác giả là quan điểm đó hoàn toàn bị phản đối, nếu bạn nghĩ như thế thì nó chỉ là suy nghĩ chủ quan vô căn cứ của bạn mà thôi
+Nhưng tất nhiên ông ấy sẽ chẳng dại gì mà nói thẳng thừng ra một cách như thế)
+	
+Hoặc:
+You might think that all professional programmers know about the importance of
+preparation and check that the prerequisites have been satisfied before jumping into
+construction. Unfortunately, that isn’t so.
+
+Cái này thì phản đối hơi rõ ràng, nhưng cũng không sao.
+Bởi vì, cái quan điểm kiểu như thế này nó khá trung tính.
+Vì mặc nhiên cả thế gian này đều nghĩ như thế, chứ không phải mình bạn.
+Dù nó đúng, hay nó sai thì cũng chẳng ảnh hưởng gì đến cái lòng tự trọng của bạn cho lắm.
+-Nếu nó đúng --> Uhm, lẽ dĩ nhiên mà.
+-Nếu nó sai --> Ohhh @@ thật vậy ư !!! Ngạc nhiên quá nhỉ !!!
+
+9-Có mục đích rõ ràng cho những gì mình viết ra !
+Và cái mục đích mà các ông ấy viết ra không phải chỉ đơn giản là trình bày lại những gì gì ông ấy biết.
+Mà đôi khi, mục đích có thể là "thuyết phục người đọc", rằng đừng tư duy theo kiểu cũ nữa, hãy thử làm theo kiểu mới.
+Nó có thể là: bác bỏ những quan điểm mà có khả năng cao là một số lượng lớn người đọc cho là đúng, nhưng thực ra nó lại hoàn toàn sai.
+Hoặc là, tạo ra một chút hài hước để tạo ra một sự thoải mái, và cái cảm giác thú vị nho nhỏ cho người đọc.
+...
+Nói chung, rất nhiều mục đích.
+Nhưng những mục đích đó, tựu chung lại thì đều xoay quanh người đọc.
+Chứ không phải là xoay quanh những gì mà tác giả biết.
+
+10-Và một điều cực kỳ quan trọng là:
+Tác giả viết những cuốn sách đó, họ có một nền tảng kiến thức rất rộng và cực kỳ am hiểu về những gì họ đang viết.
+
+11-Sử dụng ví dụ minh họa để làm nổi bật ý tưởng.
+Cũng khá hay.
+Ví dụ: Tác giả đưa ra những ví dụ minh họa khá rõ ràng: bad code thì như thế này, còn nếu tuân theo cái nguyên tắc ấy, ta sẽ có good code như thế này.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Tiếp theo: Dựa trên những gì tác giả viết sách, hãy thử khôi phục lại lộ trình
+-Hình thành ý tưởng:
+...........................
+-Sắp xếp ý tưởng !
+Sẽ có rất rất nhiều ý tưởng trong đầu, như vậy, công việc cần thiết là phải sắp xếp lại ý tưởng đó
+Sắp xếp chúng thành các chương mục. Thành một dòng logic. Giúp cho người đọc dễ theo dõi.
+-Triển khai ý tưởng
+
+------------------------------------------------------------------------------------------------------------
+
+Tuy nhiên, viết sách thì khác với viết báo cáo đồ án tốt nghiệp !
+
+Bởi vậy, chỉ có một số tip trong đống trên là dùng được mà thôi:
+
+1-Khung sườn chung: Cũng có thể nếu hợp lý.
+
+2-Trích dẫn ý kiến: Rất nên dùng.
+
+3-Trình bày theo kiểu diễn dịch, cũng được.
+
+4-Hình minh họa, sơ đồ minh họa: Nên dùng.
+
+5-Nên có phần dẫn nhập trước khi bắt đầu viết vào một vấn đề cụ thể nào đó.
+Dẫn nhập có vai trò khá quan trọng:
+-Có thể giới thiệu về ngữ cảnh của vấn đề. Đặt vấn đề trong một bức tranh toàn cảnh rộng hơn, trước khi đi sâu vào phân tích nó.
+-Có thể là tạo sự hứng thú cho người đọc.
+-Có thể là tạo sự liên kết với các phần trước đó, tạo ra sự chuyển hướng tư duy.
+
+6-Sử dụng ví dụ minh họa.
+
+------------------------------------------------------------------------------------------------------------
+
+Tựu chung lại, thì đồ án sẽ bao gồm 2 phần đan xen nhau. Đó là:
+-Những gì mà chúng ta đã làm, đã thực hiện
+-Dựa trên những cơ sở lý thuyết, những quan điểm, những ý tưởng nào.
+
+Hầu hết những cái tip ở trên đều là áp dụng cho cái phần thứ 2: Cơ sở lý thuyết, quan điểm, ý tưởng.
+
+---------------
+
+Còn phần 1, Trình bày những gì chúng ta đã thực hiện sao cho rõ ràng, hiệu quả, thì lại chưa có, hoàn toàn chưa có.
+Hãy tham khảo đồ án mẫu mà thầy Phương gửi để xem họ trình bày như thế nào.
+
+Ưu điểm:
+-Trình bày trông khá chuyên nghiệp, đầu tư vào việc trình bày các bảng biểu, format đẹp mắt.
+-Cái việc tài liệu hóa, vẽ biểu đồ của ông này được làm khá tốt. Khá bài bản chuyên nghiệp.
+-Có sự làm việc nghiên túc, và tạo ra được sản phẩm, nhìn quá thì thấy khá là chuyên nghiệp.
+
+Nhược điểm:
+-Đọc vào khá mệt, và nói chung là nhìn vào thì đúng là chẳng muốn đọc.
+-Vì nó chẳng mang lại được một điều gì mới mẻ cả.
+-Thứ hai nữa là cái hệ thống đó, cũng chẳng ai đi kiểm chứng được thực sự là nó có chạy ok không,
+vì người ta biết chắc chắn rằng, nó sẽ chẳng bao giờ được đem áp dụng vào thực tế đâu.
+
+--------------------------------------------------------------------------
+
+==> Rút ra kết luận là:
+Tất nhiên mục đích vẫn là trình bày những gì mình đã làm,
+Nhưng cứng nhắc và khô khan
+Hãy dẫn dắt người đọc bằng những ý tưởng. Hãy chia sẻ với người đọc những quan điểm.
+Hãy mang đến những gì mới mẻ, hãy thoát ra khỏi đống đổ nát cũ kỹ và nhàm chán.
+
+------------------
+
+Các ý tưởng chính mà mình muốn đem đến:
+
+1-Bức tranh về việc phát triển phần mềm theo quy trình và tài liệu hóa hiện nay.
+***Sự đối lập giữa trường học với thực tế***
+
+***Quan điểm nào là đúng???***
+
+
+---> Ý tưởng này sẽ được đưa vào đầu chương 2: Các kết quả đạt được. --->
+Vì sao?
+Vì đây là quan điểm cơ sở trong toàn bộ quá trình thực hiện đồ án, cũng như là cơ sở để lựa chọn xem những nội dung nào sẽ được đưa vào chương này.
+
+---> Các trích dẫn ủng hộ cho quan điểm này sẽ lấy từ:
+1-Code Complete, cái phần Measure twice, Cut One.
+2-How to fail with rup, cái đoạn nói về tủ thuốc.
+
+--------------------
+Ngoài ra, còn ý tưởng nào không?
+
+Ý tưởng về unit test và thiết kế để có thể unit test !
+
+Cụ thể là như thế nào?
+
+Thử đọc thêm xem có chỗ nào đề cập đến hay không?
+
+--------------------
+Ý tưởng về việc thực hiện các nghiên cứu kỹ lưỡng trước khi bắt đầu một dự án thực tế.
+
+-Ví dụ:
+Chỉ đơn giản là tính năng đăng nhập trong các game thôi.
+Tưởng chừng đơn giản, nhưng cũng đã ẩn chứa trong nó nhiều vấn đề.
+
+
+Prototyping ! ! !
+Code Complete 468
+Wiki 
+
+Software-quality objectives: 466, đây có thể lấy làm trích dẫn cho việc đưa ra yêu cầu feeling !
+
+----------------------------------
+
+Nếu không còn ý tưởng nào nữa thì sẽ bắt đầu sắp xếp lại các ý tưởng đó ! Thành một dòng logic.
+Quay lại với khung sườn !
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,80 @@
+Công việc
+
+1-Tìm hiểu về các cổng game di động, theo khái niệm của chúng ta,
+Có nghĩa là: Tìm các ứng dụng trên di động, thỏa mãn định nghĩa cổng game di động.
+Xem người ta gọi những ứng dụng đó bằng cụm từ gì?
+Phân tích đặc điểm của các ứng dụng đó.
+Nhất là những đặc điểm làm nổi bật lên ưu điểm của việc tập trung tất cả các game vào một ứng dụng, thay vì để các game riêng lẻ.
+
+2-Tìm hiểu về khái niệm cổng game di động (mobile game portal), đã được những người khác sử dụng như thế nào?
+
+
+3-Tìm hiểu cả những thuật ngữ liên quan, ví dụ như:
+Web based game portal, 
+
+
+Danh sách các cổng game:
+
+----------------------------------------------------------------------------------------
+
+-101-in-1 game:
+Gồm có 3 ứng dụng:
+
++101 game +4
+https://play.google.com/store/apps/details?id=com.nordcurrent.Games101in1Anthology
+1 triệu đến 5 triệu
+
++101 game +8
+https://play.google.com/store/apps/details?id=com.nordcurrent.Games101HD
+1 triệu đến 5 triệu
+
++101 game +41
+https://play.google.com/store/apps/details?id=com.nordcurrent.Games101
+10 triệu đến 50 triệu
+
+Thuật ngữ họ sử dụng:
+A collection of 105 games in 1 app
+
+-----------------------------------------------------------------------------------------
+
+100 Games Box: All in One
+https://play.google.com/store/apps/details?id=com.boatmob.gbox
+100.000 đến 500.000 (3.3)
+
+Thuật ngữ họ sử dụng:
+130+ games for all tastes in one pack
+
+------------------------------------------------------------------------------------------
+
+Kizi fun games
+https://play.google.com/store/apps/details?id=com.funtomic.Kizi
+
+Thuật ngữ họ sử dụng: HTML 5 game collection
+
+-------------------------------------------------------------------------------------------
+YooB Games
+https://play.google.com/store/apps/details?id=com.yoob.games
+1 triệu đến 5 triệu (3.8)
+
+Thuật ngữ họ sử dụng: A free collection with tons of games in 1 App
+-------------------------------------------------------------------------------------------
+
+GameE
+https://play.google.com/store/apps/details?id=com.gameeapp.android.app
+100.000 đến 500.000 
+
+Thuật ngữ họ sử dụng: A social network full of free games
+
+
+Cổng game di động, là những ứng dụng di động
+mà tính năng chính của nó là
+cung cấp một nền tảng, cho phép chạy các game được phát triển và đóng gói theo một định dạng mà nó hỗ trợ,
+trực tiếp trên nền tảng đó.
+
+Haizzzz, đúng vậy, thay vì đưa ra một định nghĩa rõ ràng, thì chúng ta sẽ trình bày về ý tưởng.
+Bởi vì chẳng ai có một khái niệm thực sự rõ ràng, cho đến khi một cái gì đó được hoàn thành.
+
+
+
+
+

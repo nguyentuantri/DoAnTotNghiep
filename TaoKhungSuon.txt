@@ -1,0 +1,160 @@
+Tên đề tài: Nghiên cứu giải pháp xây dựng cổng game di động trên nền tảng cocos2d-x
+
+1-Tạo khung sườn !
+Quyển đồ án sẽ bao gồm những phần nào, nội dung chính của mỗi phần là gì !
+Rồi cứ thế, triển khai nhỏ xuống dần !
+
+Chương 1: Đặt vấn đề và định hướng giải pháp
+
+Trong phần này, chúng ta sẽ trình bày 
+
+*****Giúp người đọc hình dung rõ ràng về bài toán cần giải quyết.
+Bài toán đặt ra là xây dựng cổng game di động, cần phải làm rõ các vấn đề sau:
+-----Tính thiết thực của bài toán !
++Làm rõ khái niệm cổng game di động là gì, bằng cách đưa ra khái niệm, so sánh nó với một số khái niệm khác(cổng game trên web, cổng thông tin game, . . . ), vẽ các sơ đồ, minh họa cho hoạt động của nó.
+Nói chung là không cần một định nghĩa thực sự chính xác, nhưng, phải làm sao cho người dùng hiểu được khái niệm, hình dung được nó là cái gì.
+tại sao lại phải đưa ra khái niệm, bởi vì thuật ngữ cổng game di động, không phải là một thuật ngữ phổ biến.
+Một số ứng dụng thỏa mãn khái niệm này, nhưng, người ta lại chẳng gọi nó là cổng game di động.
+Một số khác thì lại sử dụng thuật ngữ này, nhưng, không phải ám chỉ đến cái khái niệm mà ta đang nói đến.
+....
++Tại sao chúng ta lại cần xây dựng cổng game di động, nó đem lại lợi ích gì cho các nhà phát triển game.
++Thực trạng hiện nay đã có bao nhiêu cổng game di động được xây dựng? Chúng có ưu, nhược điểm gì?
+--> Kết luận: Bài toán này có ý nghĩa thực tiễn, vì nó giải quyết các nhu cầu xuất phát từ thực tế cuộc sống.
+
+-----Ngữ cảnh: Làm trên công nghệ nào? Tại sao?
+Giới thiệu về công nghệ làm game cocos2d-x
+
+
+-----Phạm vi đề tài
+Đề tài sẽ thực hiện những công việc gì và không thực hiện những công việc gì:
+Các công việc sẽ thực hiện:
+-Tìm hiểu về nền tảng làm game cocos2d-x
+-Xây dựng một game nhỏ dựa trên nền tảng này
+-Nghiên cứu giải pháp công nghệ xây dựng cổng game dựa trên nền tảng cocos2d-x
+-Hiện thực hóa giải pháp thành các công cụ hỗ trợ, các thiết kế liên quan.
+Ví dụ, công cụ hỗ trợ đóng gói game,...
+-Xây dựng một cổng game nhỏ minh họa cho giải pháp.
+Các công việc không thực hiện:
+-Xây dựng một cổng game như một sản phẩm thực tế, đầy đủ các tính năng.
+
+Chương 2: Các kết quả đạt được
+
+
+0-Xây dựng framework test.
+
+
+1-Xây dựng một game trên nền tảng cocos2d-x:
+-Mô tả game
+-(thêm mấy cái tài liệu gì gì đợt trước vào)
+Ví dụ: Tài liệu về kiến trúc, rồi tài liệu về đặc tả feeling, ...
+-
+
+2-Nghiên cứu và đề xuất giải pháp công nghệ xây dựng cổng game trên nền tảng cocos2d-x:
+
+3-Xây dựng ứng dụng demo minh họa cho giải pháp:
+
+
+(5 trang)
+1-Nhu cầu xây dựng một cổng game di động
+Trong phần này chúng ta sẽ trình bày về nhu cầu xây dựng một cổng game di động của các nhà phát triển game hiện nay.
+Cổng game lại gì?
+Nó đem lại những lợi ích gì?
+Tại sao nó lại quan trọng với họ?
+
+1.1 Khái niệm cổng game di động
+-Nếu khái niệm.
+-Cổng game di động khác với cổng thông tin game di động ở chỗ nào?
+-Ngoài cổng game di động, chúng ta còn có cổng game trên web --> Dẫn chứng cổng game trên web của các nhà phát triển game ở việt nam
+Tuy nhiên với xu hướng phát triển mạnh mẽ của các game mobile, xuất hiện nhu cầu xây dựng một cổng game di động
+
+1.2 Các lợi ích mà cổng game di động đem lại
+
+1.3 Kỹ thuật deploy game trên portal
+Kỹ thuật này là gì? Tại sao nó khó !
+
+2-Nhiệm vụ của đồ án
+Mục tiêu của phần này:
+Nêu ra một cách rõ ràng mục tiêu của đồ án là gì?
+Không phải là xây dựng một ứng dụng cụ thể, đầy đủ tính năng
+Mà là nghiên cứu về một kỹ thuật và xây dựng các công cụ, đưa ra các thiết kế cụ thể, phát triển một ứng dụng demo cho kỹ thuật đó
+(Ứng dụng này không chỉ là proof-of-concept
+mà còn là bước đầu tiên trong việc hình thành ý tưởng thiết kế
+Xây dựng một số công cụ cần thiết,
+Chuẩn bị cho một dự án xây dựng một cổng game thực sự)
+Gồm có 2 nhiệm vụ chính:
+
+
+3-Giới thiệu về công nghệ sử dụng cocos2d-x
+--> Đây là một công nghệ được các nhà phát triển game việt nam sử dụng
+
+
+Chương 2: Các kết quả đạt được
+(15 trang)
+
+1-Kỹ thuật đóng gói và deploy game trên portal
+*Trình bày chi tiết, cụ thể về 2 kỹ thuật deploy game trên portal.
+Mục tiêu là làm sao cho cả những người chưa hề đụng đến cocos2d-x cũng có thể tưởng tượng được các kỹ thuật đó nó hoạt động như thế nào.
+*Trình bày về ưu nhược điểm của từng kỹ thuật và các phương pháp giải quyết ưu nhược điểm.
+
+2-Xây dựng ứng dụng minh họa cho giải pháp:
+*Đặc tả yêu cầu
+*Phân tích, thiết kế.
+*
+
+Chương 3: Kết luận
+Đánh giá kết quả của đồ án, các công việc đã làm được, chưa làm được !
+Các định hướng kiến nghị nhằm hoàn thiện giải pháp !
+
+
+Đề tài: nghiên cứu giải pháp công nghệ xây dựng cổng game di động
+
+
+Cách viết sẽ là như thế nào???
+1-Viết một mạch, chỉ có nội dung là nội dung, sau đó forrmat các kiểu sau !
+
+*****Ý nghĩa công việc*****
+Cũng chả phải là vô ích, coi như rèn luyện khả năng viết lách đi,
+Đến cả Việt Nam muốn được UNESSCO công nhận cái gì gì đó là di sản văn hóa thế giới thì cũng cần đến hồ sơ cả bao nhiêu chục nghìn trang,
+Huống chi, đây cũng là cái đồ án tốt nghiệp, viết khoảng vài chục trang thì có gì đâu mà quá đáng.
+
+
+*****Tiêu chí đánh giá*****
+
+Về hình thức:
+-Có thể không cần phải quá yêu cầu tiểu tiết
+Nhưng trình bày, căn lề, thụt đầu dòng, đánh dấu phần tử danh sách, ghi caption cho ảnh, bảng biểu, ... các kiểu phải đồng nhất, không thể chỗ thế này, chỗ thế kia.
+-Phân chương, phân mục rõ ràng, theo đúng yêu cầu của viện.
+
+Về nội dung:
+Không trình bày lan man cho dài ra, chả có ý nghĩa gì.
+Cứ viết đúng, đủ, sáng sủa, mạch lạc là ok.
+Nếu viết xong, thấy ngắn quá, sẽ tự khắc có cách làm cho nó  dài ra.
+
+Văn phong:
+Mạch lạc, khách quan, không màu mè, thêm thắt, bay bướm.
+
+Cách triển khai ý:
+Diễn dịch, giúp người đọc chỉ cần đọc vài câu đầu tiên của một phần là đã có thể biết được ngay lập tức phàn này sẽ nói đến vấn đề gì,
+Kiểu như: Trong phần này, ta sẽ trình bày về ....... Cụ thể là ...... Việc trình bày về vấn đề đó giúp làm rõ được .....
+
+Mục tiêu lớn nhất mà văn phong và cách triển khai ý cần đạt được là giúp cho người đọc nhanh chóng nắm bắt được ý đồ viết, clear nhất có thể.
+Cho nên đừng cố gắng lan man và tỏ ra bí ẩn, khó hiểu.
+
+Dù cho đó là một vấn đề có vẻ thực sự hơi mới lạ với người đọc thì cũng hãy trình bày theo một cách dễ hiểu nhất có thể !
+
+
+*****Cách thức thực hiện*****
+
+Cách 1: Đừng vội viết đồ án ngay,
+Hãy nhìn lại tổng quan những công việc mình đã làm,
+Và sắp xếp lại nó một cách gọn gàng, ngăn nắp.
+Có thể làm thêm một số công việc bổ sung khác.
+Ví dụ như:
+Đưa ra các sơ đồ,
+
+Xem nào, như cái báo cáo học máy đi, 
+Các chương, các mục được bố trí khá rõ ràng!
+
+
+1-Làm rõ ra xem các mục mà viện yêu cầu, cụ thể trong trường hợp này là gì? 
+Nó sẽ được triển khai thành những cái gì? 
