@@ -1,0 +1,108 @@
+Công việc hôm nay:
+
+Sáng: Hoàn thiện khung sườn, sắp xếp ý tưởng viết bài ! ! !
+
+Chương 1: Đặt vấn đề và định hướng giải pháp.
+
+Chương này sẽ trình bày về:
+1-Lý do chọn đề tài !
+Tại sao lại chọn đề tài này? Nó có ý nghĩa thực tiễn gì không? Hay có gì mới mẻ không?
+Câu trả lời là: có, nó có ý nghĩa thực tiễn, ví các lý do sau:
+
+
+Đấy, lại bí. Hãy thử tách riêng ra xem thế nào.
+Nguyên nhân vẫn là: Cái xu hướng dịch chuyển này, là do ý kiến chủ quan, từ một cái nhìn phiến diện của bản thân mình, vì vậy, khó diễn đạt thành lời âu cũng là điều dễ hiểu.
+
+Vậy giờ thế nào ! Thành ra việc đưa ra một kết luận đâu phải đơn giản, vậy giờ giải quyết thế nào???
+1-Viết qua loa chung chung thôi, bởi vì không có số liệu, không có trích dẫn gì cả, chỉ là ý kiến chủ quan nên cứ nói theo kiểu nước đôi.
+2-Chịu khó tìm kiếm một số số liệu + trích dẫn ...
+
+Thế này nhé, kể cả trng những cuốn sách hay, thì sẽ vẫn có những đoạn dở.
+Ok, cuối cùng thì cũng tìm được một nguồn tài liệu đáng tin cậy !
+
+
+Trích dẫn cho thấy sự phát triển của thị trường game mobile.
+
+
+Chương 1: Đặt vấn đề và định hướng giải pháp
+
+I-Lý do chọn đề tài:
+
+1-Xu hướng phát triển mạnh mẽ của thị trường game mobile
+
+Tính trên toàn bộ Đông Nam Á nói chung, dự kiến trong 3 năm từ 2015 đến 2018, quy mô của thị trường game sẽ tăng 2 lần về doanh thu, còn riêng với game mobile thì được dự đoán sẽ tăng tới 3 lần. [1]
+Ở Việt Nam, vào năm 2014, phân khúc mobile game chiếm thị phần khá nhỏ chỉ khoảng 18% doanh thu trong toàn bộ thị trường game.
+Nhưng dự kiến đến năm 2017, mobile game sẽ trở thành phân khúc thị trường có doanh thu lớn nhất, đạt 160 triệu đô la, chiếm hơn 50% doanh thu của toàn bộ thì trường game. [2]
+
+[1] https://newzoo.com/wp-content/uploads/2011/06/Newzoo_Google_Think-Gaming_July_V7_Final.pdf
+[2] http://www.proelios.com/wp-content/uploads/2015/02/Newzoo_Southeast_Asian_Games_Market_EN.pdf
+
+Thực tế hiện nay, nhiều nhà phát triển game lớn của Việt Nam cũng đang tập trung nguồn lực đầu tư cho game mobile, chỉ duy trì 
+
+2-Nhu cầu xây dựng một cổng game di động của các nhà phát triển game
+Trước đây, vào thời điểm thịnh hành của web game, các nhà phát triển game đều xây dựng cho mình một cổng game trên nền web.
+Có thể kể đến một số cổng game như: cổng game phát lộc của vtc game, cổng game zingplay của vng, cổng game 360 của vng, ...
+Hiện nay, với xu hướng chuyển dần sang game mobile, các nhà phát triển game đều mong muốn xây dựng một cổng game mobile.
+Các lợi ích: có thể kể đến, ...
+
+3-Cocos2d-x là một công nghệ làm game được nhiều nhà phát triển game hiện nay sử dụng
+Không có con số thống kê cụ thể nhưng một số nhà phát triển game lớn như VNG, VTC game, ... đều sử dụng cocos2d-x là công nghệ phát triển game mobile chủ đạo của mình.
+...
+
+
+II-Các nhiệm vụ của đồ án
+
+
+III-Giới thiệu về công nghệ cocos2d-x
+
+Chương 2: Các kết quả đạt được
+
+Trong chương này, ta sẽ trình bày về các kết quả của đồ án.
+Nhưng trước khi đi vào chi tiết, chúng ta sẽ xem xét một vấn đề khá quan trọng.
+Đó là việc tài liệu hóa trong các dự án phần mềm.
+Tại sao nó quan trọng? Bởi vì nó sẽ quyết định một phần không nhỏ đến những cách làm việc trong suốt quá trình làm đố án, cũng như việc lựa chọn những nội dung nào sẽ được đưa vào quyển đồ án.
+Như vậy, cụ thể trong chương này chúng ta sẽ trình bày các vấn đề sau:
+-
+-
+-
+-
+
+I-Về việc tài liệu hóa trong các dự án phần mềm
+1-Tại sao tài liệu hóa lại quan trọng?
+2-Khi viết tài liệu trở thành gánh nặng?
+3-Nên viết tài liệu hóa như thế nào?
+
+II-Game xếp hình
+
+1-Mô tả game
+(tương ứng với nó là tài liệu game design)
+
+
+2-
+Có thể tương ứng với một phần nào đó trong kiến trúc phần mềm, hoặc programming guide.
+
+
+
+3-Các lớp cơ bản:
+.....
+
+
+
+4-Yêu cầu về feeling trong game:
+
+
+
+5-Kết quả
+
+
+
+
+III-Proof-of-concept cho cổng game di động
+Tiếp tục sử dụng proof-of-concept để nhắc lại !
+
+
+
+Chương 3: Kết luận
+
+
+
