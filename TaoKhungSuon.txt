@@ -177,7 +177,7 @@ Cứ viết đúng, đủ, sáng sủa, mạch lạc là ok.
 Nếu viết xong, thấy ngắn quá, sẽ tự khắc có cách làm cho nó  dài ra.
 
 Văn phong:
-Mạch lạc, khách quan, không màu mè, thêm thắt, bay bướm.
+Mạch lạc, khách quan, không màu mè, thêm thắt, bay bướm. Nhưng đừng quá khô khan.
 
 Cách triển khai ý:
 Diễn dịch, giúp người đọc chỉ cần đọc vài câu đầu tiên của một phần là đã có thể biết được ngay lập tức phàn này sẽ nói đến vấn đề gì,
