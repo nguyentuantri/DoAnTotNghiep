@@ -1,4 +1,4 @@
-Công việc hôm nay:
+﻿Công việc hôm nay:
 
 Sáng: Hoàn thiện khung sườn, sắp xếp ý tưởng viết bài ! ! !
 
@@ -71,6 +71,8 @@ I-Về việc tài liệu hóa trong các dự án phần mềm
 1-Tại sao tài liệu hóa lại quan trọng?
 2-Khi viết tài liệu trở thành gánh nặng?
 3-Nên viết tài liệu hóa như thế nào?
+
+Thấy chưa, cứ nghĩa rằng nó hay, nhưng thực ra nó chẳng có gì ngoài 1 sự tô vẽ. Chả có ý nghĩa gì.
 
 II-Game xếp hình
 
